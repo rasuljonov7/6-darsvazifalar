@@ -1,21 +1,21 @@
 // 1-masala
 
-// let input = +prompt("1-7 gacha son kirgizing");
-// if (input == 1) {
-//   console.log("Dushanba");
-// } else if (input == 2) {
-//   console.log("seshanba");
-// } else if (input == 3) {
-//   console.log("Chorshanba");
-// } else if (input == 2) {
-//   console.log("Payshanba");
-// } else if (input == 2) {
-//   console.log("Juma");
-// } else if (input == 2) {
-//   console.log("shanba");
-// } else {
-//   console.log("Yakshanba");
-// }
+let input = +prompt("1-7 gacha son kirgizing");
+if (input == 1) {
+  console.log("Dushanba");
+} else if (input == 2) {
+  console.log("seshanba");
+} else if (input == 3) {
+  console.log("Chorshanba");
+} else if (input == 4) {
+  console.log("Payshanba");
+} else if (input == 5) {
+  console.log("Juma");
+} else if (input == 6) {
+  console.log("shanba");
+} else {
+  console.log("Yakshanba");
+}
 
 // 2 - masala
 // let score = 30;
